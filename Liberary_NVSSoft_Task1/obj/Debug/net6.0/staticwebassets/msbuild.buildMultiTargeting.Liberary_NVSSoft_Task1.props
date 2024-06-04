@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Liberary_NVSSoft_Task1.props" />
+</Project>

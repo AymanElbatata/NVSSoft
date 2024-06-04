@@ -1,0 +1,15 @@
+D:\AYM Programming\Prog&Files\Liberary_NVSSoft_Task1\Liberary_NVSSoft_Task1.BLL\bin\Debug\net6.0\Liberary_NVSSoft_Task1.BLL.deps.json
+D:\AYM Programming\Prog&Files\Liberary_NVSSoft_Task1\Liberary_NVSSoft_Task1.BLL\bin\Debug\net6.0\Liberary_NVSSoft_Task1.BLL.dll
+D:\AYM Programming\Prog&Files\Liberary_NVSSoft_Task1\Liberary_NVSSoft_Task1.BLL\bin\Debug\net6.0\Liberary_NVSSoft_Task1.BLL.pdb
+D:\AYM Programming\Prog&Files\Liberary_NVSSoft_Task1\Liberary_NVSSoft_Task1.BLL\bin\Debug\net6.0\Liberary_NVSSoft_Task1.DAL.dll
+D:\AYM Programming\Prog&Files\Liberary_NVSSoft_Task1\Liberary_NVSSoft_Task1.BLL\bin\Debug\net6.0\Liberary_NVSSoft_Task1.DAL.pdb
+D:\AYM Programming\Prog&Files\Liberary_NVSSoft_Task1\Liberary_NVSSoft_Task1.BLL\obj\Debug\net6.0\Liberary_NVSSoft_Task1.BLL.csproj.AssemblyReference.cache
+D:\AYM Programming\Prog&Files\Liberary_NVSSoft_Task1\Liberary_NVSSoft_Task1.BLL\obj\Debug\net6.0\Liberary_NVSSoft_Task1.BLL.GeneratedMSBuildEditorConfig.editorconfig
+D:\AYM Programming\Prog&Files\Liberary_NVSSoft_Task1\Liberary_NVSSoft_Task1.BLL\obj\Debug\net6.0\Liberary_NVSSoft_Task1.BLL.AssemblyInfoInputs.cache
+D:\AYM Programming\Prog&Files\Liberary_NVSSoft_Task1\Liberary_NVSSoft_Task1.BLL\obj\Debug\net6.0\Liberary_NVSSoft_Task1.BLL.AssemblyInfo.cs
+D:\AYM Programming\Prog&Files\Liberary_NVSSoft_Task1\Liberary_NVSSoft_Task1.BLL\obj\Debug\net6.0\Liberary_NVSSoft_Task1.BLL.csproj.CoreCompileInputs.cache
+D:\AYM Programming\Prog&Files\Liberary_NVSSoft_Task1\Liberary_NVSSoft_Task1.BLL\obj\Debug\net6.0\Liberary_NVSSoft_Task1.BLL.dll
+D:\AYM Programming\Prog&Files\Liberary_NVSSoft_Task1\Liberary_NVSSoft_Task1.BLL\obj\Debug\net6.0\refint\Liberary_NVSSoft_Task1.BLL.dll
+D:\AYM Programming\Prog&Files\Liberary_NVSSoft_Task1\Liberary_NVSSoft_Task1.BLL\obj\Debug\net6.0\Liberary_NVSSoft_Task1.BLL.pdb
+D:\AYM Programming\Prog&Files\Liberary_NVSSoft_Task1\Liberary_NVSSoft_Task1.BLL\obj\Debug\net6.0\ref\Liberary_NVSSoft_Task1.BLL.dll
+D:\AYM Programming\Prog&Files\Liberary_NVSSoft_Task1\Liberary_NVSSoft_Task1.BLL\obj\Debug\net6.0\Liberary.BCEB7695.Up2Date

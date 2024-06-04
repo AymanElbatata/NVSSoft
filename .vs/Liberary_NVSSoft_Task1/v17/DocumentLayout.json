@@ -1,0 +1,291 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\AYM Programming\\Prog\u0026Files\\Liberary_NVSSoft_Task1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1DEE7359-C4A3-4EDB-A55C-BDF1CC9D3884}|Liberary_NVSSoft_Task1.BLL\\Liberary_NVSSoft_Task1.BLL.csproj|d:\\aym programming\\prog\u0026files\\liberary_nvssoft_task1\\liberary_nvssoft_task1.bll\\repositories\\borrowrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1DEE7359-C4A3-4EDB-A55C-BDF1CC9D3884}|Liberary_NVSSoft_Task1.BLL\\Liberary_NVSSoft_Task1.BLL.csproj|solutionrelative:liberary_nvssoft_task1.bll\\repositories\\borrowrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DEE7359-C4A3-4EDB-A55C-BDF1CC9D3884}|Liberary_NVSSoft_Task1.BLL\\Liberary_NVSSoft_Task1.BLL.csproj|d:\\aym programming\\prog\u0026files\\liberary_nvssoft_task1\\liberary_nvssoft_task1.bll\\interfaces\\iborrowingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1DEE7359-C4A3-4EDB-A55C-BDF1CC9D3884}|Liberary_NVSSoft_Task1.BLL\\Liberary_NVSSoft_Task1.BLL.csproj|solutionrelative:liberary_nvssoft_task1.bll\\interfaces\\iborrowingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DEE7359-C4A3-4EDB-A55C-BDF1CC9D3884}|Liberary_NVSSoft_Task1.BLL\\Liberary_NVSSoft_Task1.BLL.csproj|d:\\aym programming\\prog\u0026files\\liberary_nvssoft_task1\\liberary_nvssoft_task1.bll\\repositories\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1DEE7359-C4A3-4EDB-A55C-BDF1CC9D3884}|Liberary_NVSSoft_Task1.BLL\\Liberary_NVSSoft_Task1.BLL.csproj|solutionrelative:liberary_nvssoft_task1.bll\\repositories\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DEE7359-C4A3-4EDB-A55C-BDF1CC9D3884}|Liberary_NVSSoft_Task1.BLL\\Liberary_NVSSoft_Task1.BLL.csproj|d:\\aym programming\\prog\u0026files\\liberary_nvssoft_task1\\liberary_nvssoft_task1.bll\\repositories\\bookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1DEE7359-C4A3-4EDB-A55C-BDF1CC9D3884}|Liberary_NVSSoft_Task1.BLL\\Liberary_NVSSoft_Task1.BLL.csproj|solutionrelative:liberary_nvssoft_task1.bll\\repositories\\bookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DEE7359-C4A3-4EDB-A55C-BDF1CC9D3884}|Liberary_NVSSoft_Task1.BLL\\Liberary_NVSSoft_Task1.BLL.csproj|d:\\aym programming\\prog\u0026files\\liberary_nvssoft_task1\\liberary_nvssoft_task1.bll\\repositories\\authorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1DEE7359-C4A3-4EDB-A55C-BDF1CC9D3884}|Liberary_NVSSoft_Task1.BLL\\Liberary_NVSSoft_Task1.BLL.csproj|solutionrelative:liberary_nvssoft_task1.bll\\repositories\\authorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DEE7359-C4A3-4EDB-A55C-BDF1CC9D3884}|Liberary_NVSSoft_Task1.BLL\\Liberary_NVSSoft_Task1.BLL.csproj|d:\\aym programming\\prog\u0026files\\liberary_nvssoft_task1\\liberary_nvssoft_task1.bll\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1DEE7359-C4A3-4EDB-A55C-BDF1CC9D3884}|Liberary_NVSSoft_Task1.BLL\\Liberary_NVSSoft_Task1.BLL.csproj|solutionrelative:liberary_nvssoft_task1.bll\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DEE7359-C4A3-4EDB-A55C-BDF1CC9D3884}|Liberary_NVSSoft_Task1.BLL\\Liberary_NVSSoft_Task1.BLL.csproj|d:\\aym programming\\prog\u0026files\\liberary_nvssoft_task1\\liberary_nvssoft_task1.bll\\interfaces\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1DEE7359-C4A3-4EDB-A55C-BDF1CC9D3884}|Liberary_NVSSoft_Task1.BLL\\Liberary_NVSSoft_Task1.BLL.csproj|solutionrelative:liberary_nvssoft_task1.bll\\interfaces\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DEE7359-C4A3-4EDB-A55C-BDF1CC9D3884}|Liberary_NVSSoft_Task1.BLL\\Liberary_NVSSoft_Task1.BLL.csproj|d:\\aym programming\\prog\u0026files\\liberary_nvssoft_task1\\liberary_nvssoft_task1.bll\\interfaces\\ibookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1DEE7359-C4A3-4EDB-A55C-BDF1CC9D3884}|Liberary_NVSSoft_Task1.BLL\\Liberary_NVSSoft_Task1.BLL.csproj|solutionrelative:liberary_nvssoft_task1.bll\\interfaces\\ibookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DEE7359-C4A3-4EDB-A55C-BDF1CC9D3884}|Liberary_NVSSoft_Task1.BLL\\Liberary_NVSSoft_Task1.BLL.csproj|d:\\aym programming\\prog\u0026files\\liberary_nvssoft_task1\\liberary_nvssoft_task1.bll\\interfaces\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1DEE7359-C4A3-4EDB-A55C-BDF1CC9D3884}|Liberary_NVSSoft_Task1.BLL\\Liberary_NVSSoft_Task1.BLL.csproj|solutionrelative:liberary_nvssoft_task1.bll\\interfaces\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7999363B-5B17-4A33-8C25-E2C7240E459D}|Liberary_NVSSoft_Task1.DAL\\Liberary_NVSSoft_Task1.DAL.csproj|d:\\aym programming\\prog\u0026files\\liberary_nvssoft_task1\\liberary_nvssoft_task1.dal\\entities\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7999363B-5B17-4A33-8C25-E2C7240E459D}|Liberary_NVSSoft_Task1.DAL\\Liberary_NVSSoft_Task1.DAL.csproj|solutionrelative:liberary_nvssoft_task1.dal\\entities\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DEE7359-C4A3-4EDB-A55C-BDF1CC9D3884}|Liberary_NVSSoft_Task1.BLL\\Liberary_NVSSoft_Task1.BLL.csproj|d:\\aym programming\\prog\u0026files\\liberary_nvssoft_task1\\liberary_nvssoft_task1.bll\\repositories\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1DEE7359-C4A3-4EDB-A55C-BDF1CC9D3884}|Liberary_NVSSoft_Task1.BLL\\Liberary_NVSSoft_Task1.BLL.csproj|solutionrelative:liberary_nvssoft_task1.bll\\repositories\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1B35985-F46D-4A73-B92F-C8A953F52FD8}|Liberary_NVSSoft_Task1\\Liberary_NVSSoft_Task1.csproj|d:\\aym programming\\prog\u0026files\\liberary_nvssoft_task1\\liberary_nvssoft_task1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1B35985-F46D-4A73-B92F-C8A953F52FD8}|Liberary_NVSSoft_Task1\\Liberary_NVSSoft_Task1.csproj|solutionrelative:liberary_nvssoft_task1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1B35985-F46D-4A73-B92F-C8A953F52FD8}|Liberary_NVSSoft_Task1\\Liberary_NVSSoft_Task1.csproj|d:\\aym programming\\prog\u0026files\\liberary_nvssoft_task1\\liberary_nvssoft_task1\\helper\\applicationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1B35985-F46D-4A73-B92F-C8A953F52FD8}|Liberary_NVSSoft_Task1\\Liberary_NVSSoft_Task1.csproj|solutionrelative:liberary_nvssoft_task1\\helper\\applicationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1B35985-F46D-4A73-B92F-C8A953F52FD8}|Liberary_NVSSoft_Task1\\Liberary_NVSSoft_Task1.csproj|d:\\aym programming\\prog\u0026files\\liberary_nvssoft_task1\\liberary_nvssoft_task1\\views\\home\\users.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D1B35985-F46D-4A73-B92F-C8A953F52FD8}|Liberary_NVSSoft_Task1\\Liberary_NVSSoft_Task1.csproj|solutionrelative:liberary_nvssoft_task1\\views\\home\\users.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7999363B-5B17-4A33-8C25-E2C7240E459D}|Liberary_NVSSoft_Task1.DAL\\Liberary_NVSSoft_Task1.DAL.csproj|d:\\aym programming\\prog\u0026files\\liberary_nvssoft_task1\\liberary_nvssoft_task1.dal\\entities\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7999363B-5B17-4A33-8C25-E2C7240E459D}|Liberary_NVSSoft_Task1.DAL\\Liberary_NVSSoft_Task1.DAL.csproj|solutionrelative:liberary_nvssoft_task1.dal\\entities\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1B35985-F46D-4A73-B92F-C8A953F52FD8}|Liberary_NVSSoft_Task1\\Liberary_NVSSoft_Task1.csproj|d:\\aym programming\\prog\u0026files\\liberary_nvssoft_task1\\liberary_nvssoft_task1\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D1B35985-F46D-4A73-B92F-C8A953F52FD8}|Liberary_NVSSoft_Task1\\Liberary_NVSSoft_Task1.csproj|solutionrelative:liberary_nvssoft_task1\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "D:\\AYM Programming\\Prog\u0026Files\\Liberary_NVSSoft_Task1\\Liberary_NVSSoft_Task1.BLL\\Repositories\\UserRepository.cs",
+              "RelativeDocumentMoniker": "Liberary_NVSSoft_Task1.BLL\\Repositories\\UserRepository.cs",
+              "ToolTip": "D:\\AYM Programming\\Prog\u0026Files\\Liberary_NVSSoft_Task1\\Liberary_NVSSoft_Task1.BLL\\Repositories\\UserRepository.cs",
+              "RelativeToolTip": "Liberary_NVSSoft_Task1.BLL\\Repositories\\UserRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T09:02:27.053Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AuthorRepository.cs",
+              "DocumentMoniker": "D:\\AYM Programming\\Prog\u0026Files\\Liberary_NVSSoft_Task1\\Liberary_NVSSoft_Task1.BLL\\Repositories\\AuthorRepository.cs",
+              "RelativeDocumentMoniker": "Liberary_NVSSoft_Task1.BLL\\Repositories\\AuthorRepository.cs",
+              "ToolTip": "D:\\AYM Programming\\Prog\u0026Files\\Liberary_NVSSoft_Task1\\Liberary_NVSSoft_Task1.BLL\\Repositories\\AuthorRepository.cs",
+              "RelativeToolTip": "Liberary_NVSSoft_Task1.BLL\\Repositories\\AuthorRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-31T19:18:36.126Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BookRepository.cs",
+              "DocumentMoniker": "D:\\AYM Programming\\Prog\u0026Files\\Liberary_NVSSoft_Task1\\Liberary_NVSSoft_Task1.BLL\\Repositories\\BookRepository.cs",
+              "RelativeDocumentMoniker": "Liberary_NVSSoft_Task1.BLL\\Repositories\\BookRepository.cs",
+              "ToolTip": "D:\\AYM Programming\\Prog\u0026Files\\Liberary_NVSSoft_Task1\\Liberary_NVSSoft_Task1.BLL\\Repositories\\BookRepository.cs",
+              "RelativeToolTip": "Liberary_NVSSoft_Task1.BLL\\Repositories\\BookRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T18:59:32.477Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GenericRepository.cs",
+              "DocumentMoniker": "D:\\AYM Programming\\Prog\u0026Files\\Liberary_NVSSoft_Task1\\Liberary_NVSSoft_Task1.BLL\\Repositories\\GenericRepository.cs",
+              "RelativeDocumentMoniker": "Liberary_NVSSoft_Task1.BLL\\Repositories\\GenericRepository.cs",
+              "ToolTip": "D:\\AYM Programming\\Prog\u0026Files\\Liberary_NVSSoft_Task1\\Liberary_NVSSoft_Task1.BLL\\Repositories\\GenericRepository.cs",
+              "RelativeToolTip": "Liberary_NVSSoft_Task1.BLL\\Repositories\\GenericRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T06:28:49.412Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IBookRepository.cs",
+              "DocumentMoniker": "D:\\AYM Programming\\Prog\u0026Files\\Liberary_NVSSoft_Task1\\Liberary_NVSSoft_Task1.BLL\\Interfaces\\IBookRepository.cs",
+              "RelativeDocumentMoniker": "Liberary_NVSSoft_Task1.BLL\\Interfaces\\IBookRepository.cs",
+              "ToolTip": "D:\\AYM Programming\\Prog\u0026Files\\Liberary_NVSSoft_Task1\\Liberary_NVSSoft_Task1.BLL\\Interfaces\\IBookRepository.cs",
+              "RelativeToolTip": "Liberary_NVSSoft_Task1.BLL\\Interfaces\\IBookRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T06:27:53.772Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BorrowRepository.cs",
+              "DocumentMoniker": "D:\\AYM Programming\\Prog\u0026Files\\Liberary_NVSSoft_Task1\\Liberary_NVSSoft_Task1.BLL\\Repositories\\BorrowRepository.cs",
+              "RelativeDocumentMoniker": "Liberary_NVSSoft_Task1.BLL\\Repositories\\BorrowRepository.cs",
+              "ToolTip": "D:\\AYM Programming\\Prog\u0026Files\\Liberary_NVSSoft_Task1\\Liberary_NVSSoft_Task1.BLL\\Repositories\\BorrowRepository.cs",
+              "RelativeToolTip": "Liberary_NVSSoft_Task1.BLL\\Repositories\\BorrowRepository.cs",
+              "ViewState": "AQIAAFoAAAAAAAAAAAAAABcAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T09:11:37.768Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IBorrowingRepository.cs",
+              "DocumentMoniker": "D:\\AYM Programming\\Prog\u0026Files\\Liberary_NVSSoft_Task1\\Liberary_NVSSoft_Task1.BLL\\Interfaces\\IBorrowingRepository.cs",
+              "RelativeDocumentMoniker": "Liberary_NVSSoft_Task1.BLL\\Interfaces\\IBorrowingRepository.cs",
+              "ToolTip": "D:\\AYM Programming\\Prog\u0026Files\\Liberary_NVSSoft_Task1\\Liberary_NVSSoft_Task1.BLL\\Interfaces\\IBorrowingRepository.cs",
+              "RelativeToolTip": "Liberary_NVSSoft_Task1.BLL\\Interfaces\\IBorrowingRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T06:27:51.402Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "D:\\AYM Programming\\Prog\u0026Files\\Liberary_NVSSoft_Task1\\Liberary_NVSSoft_Task1.BLL\\Interfaces\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "Liberary_NVSSoft_Task1.BLL\\Interfaces\\IUserRepository.cs",
+              "ToolTip": "D:\\AYM Programming\\Prog\u0026Files\\Liberary_NVSSoft_Task1\\Liberary_NVSSoft_Task1.BLL\\Interfaces\\IUserRepository.cs",
+              "RelativeToolTip": "Liberary_NVSSoft_Task1.BLL\\Interfaces\\IUserRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T06:27:42.172Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IGenericRepository.cs",
+              "DocumentMoniker": "D:\\AYM Programming\\Prog\u0026Files\\Liberary_NVSSoft_Task1\\Liberary_NVSSoft_Task1.BLL\\Interfaces\\IGenericRepository.cs",
+              "RelativeDocumentMoniker": "Liberary_NVSSoft_Task1.BLL\\Interfaces\\IGenericRepository.cs",
+              "ToolTip": "D:\\AYM Programming\\Prog\u0026Files\\Liberary_NVSSoft_Task1\\Liberary_NVSSoft_Task1.BLL\\Interfaces\\IGenericRepository.cs",
+              "RelativeToolTip": "Liberary_NVSSoft_Task1.BLL\\Interfaces\\IGenericRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T06:27:56.582Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Author.cs",
+              "DocumentMoniker": "D:\\AYM Programming\\Prog\u0026Files\\Liberary_NVSSoft_Task1\\Liberary_NVSSoft_Task1.DAL\\Entities\\Author.cs",
+              "RelativeDocumentMoniker": "Liberary_NVSSoft_Task1.DAL\\Entities\\Author.cs",
+              "ToolTip": "D:\\AYM Programming\\Prog\u0026Files\\Liberary_NVSSoft_Task1\\Liberary_NVSSoft_Task1.DAL\\Entities\\Author.cs",
+              "RelativeToolTip": "Liberary_NVSSoft_Task1.DAL\\Entities\\Author.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T18:17:43.218Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UnitOfWork.cs",
+              "DocumentMoniker": "D:\\AYM Programming\\Prog\u0026Files\\Liberary_NVSSoft_Task1\\Liberary_NVSSoft_Task1.BLL\\Repositories\\UnitOfWork.cs",
+              "RelativeDocumentMoniker": "Liberary_NVSSoft_Task1.BLL\\Repositories\\UnitOfWork.cs",
+              "ToolTip": "D:\\AYM Programming\\Prog\u0026Files\\Liberary_NVSSoft_Task1\\Liberary_NVSSoft_Task1.BLL\\Repositories\\UnitOfWork.cs",
+              "RelativeToolTip": "Liberary_NVSSoft_Task1.BLL\\Repositories\\UnitOfWork.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T06:27:32.347Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ApplicationService.cs",
+              "DocumentMoniker": "D:\\AYM Programming\\Prog\u0026Files\\Liberary_NVSSoft_Task1\\Liberary_NVSSoft_Task1\\Helper\\ApplicationService.cs",
+              "RelativeDocumentMoniker": "Liberary_NVSSoft_Task1\\Helper\\ApplicationService.cs",
+              "ToolTip": "D:\\AYM Programming\\Prog\u0026Files\\Liberary_NVSSoft_Task1\\Liberary_NVSSoft_Task1\\Helper\\ApplicationService.cs",
+              "RelativeToolTip": "Liberary_NVSSoft_Task1\\Helper\\ApplicationService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T06:25:48.162Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Book.cs",
+              "DocumentMoniker": "D:\\AYM Programming\\Prog\u0026Files\\Liberary_NVSSoft_Task1\\Liberary_NVSSoft_Task1.DAL\\Entities\\Book.cs",
+              "RelativeDocumentMoniker": "Liberary_NVSSoft_Task1.DAL\\Entities\\Book.cs",
+              "ToolTip": "D:\\AYM Programming\\Prog\u0026Files\\Liberary_NVSSoft_Task1\\Liberary_NVSSoft_Task1.DAL\\Entities\\Book.cs",
+              "RelativeToolTip": "Liberary_NVSSoft_Task1.DAL\\Entities\\Book.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T18:18:52.045Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Users.cshtml",
+              "DocumentMoniker": "D:\\AYM Programming\\Prog\u0026Files\\Liberary_NVSSoft_Task1\\Liberary_NVSSoft_Task1\\Views\\Home\\Users.cshtml",
+              "RelativeDocumentMoniker": "Liberary_NVSSoft_Task1\\Views\\Home\\Users.cshtml",
+              "ToolTip": "D:\\AYM Programming\\Prog\u0026Files\\Liberary_NVSSoft_Task1\\Liberary_NVSSoft_Task1\\Views\\Home\\Users.cshtml",
+              "RelativeToolTip": "Liberary_NVSSoft_Task1\\Views\\Home\\Users.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-31T20:50:39.791Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\AYM Programming\\Prog\u0026Files\\Liberary_NVSSoft_Task1\\Liberary_NVSSoft_Task1\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Liberary_NVSSoft_Task1\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\AYM Programming\\Prog\u0026Files\\Liberary_NVSSoft_Task1\\Liberary_NVSSoft_Task1\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Liberary_NVSSoft_Task1\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABMAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-31T19:22:14.737Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\AYM Programming\\Prog\u0026Files\\Liberary_NVSSoft_Task1\\Liberary_NVSSoft_Task1\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Liberary_NVSSoft_Task1\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\AYM Programming\\Prog\u0026Files\\Liberary_NVSSoft_Task1\\Liberary_NVSSoft_Task1\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Liberary_NVSSoft_Task1\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAADUAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-02T09:10:09.67Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

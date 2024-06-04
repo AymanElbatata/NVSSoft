@@ -1,0 +1,12 @@
+D:\AYM Programming\Prog&Files\Liberary_NVSSoft_Task1\Liberary_NVSSoft_Task1.DAL\bin\Debug\net6.0\Liberary_NVSSoft_Task1.DAL.deps.json
+D:\AYM Programming\Prog&Files\Liberary_NVSSoft_Task1\Liberary_NVSSoft_Task1.DAL\bin\Debug\net6.0\Liberary_NVSSoft_Task1.DAL.dll
+D:\AYM Programming\Prog&Files\Liberary_NVSSoft_Task1\Liberary_NVSSoft_Task1.DAL\bin\Debug\net6.0\Liberary_NVSSoft_Task1.DAL.pdb
+D:\AYM Programming\Prog&Files\Liberary_NVSSoft_Task1\Liberary_NVSSoft_Task1.DAL\obj\Debug\net6.0\Liberary_NVSSoft_Task1.DAL.csproj.AssemblyReference.cache
+D:\AYM Programming\Prog&Files\Liberary_NVSSoft_Task1\Liberary_NVSSoft_Task1.DAL\obj\Debug\net6.0\Liberary_NVSSoft_Task1.DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\AYM Programming\Prog&Files\Liberary_NVSSoft_Task1\Liberary_NVSSoft_Task1.DAL\obj\Debug\net6.0\Liberary_NVSSoft_Task1.DAL.AssemblyInfoInputs.cache
+D:\AYM Programming\Prog&Files\Liberary_NVSSoft_Task1\Liberary_NVSSoft_Task1.DAL\obj\Debug\net6.0\Liberary_NVSSoft_Task1.DAL.AssemblyInfo.cs
+D:\AYM Programming\Prog&Files\Liberary_NVSSoft_Task1\Liberary_NVSSoft_Task1.DAL\obj\Debug\net6.0\Liberary_NVSSoft_Task1.DAL.csproj.CoreCompileInputs.cache
+D:\AYM Programming\Prog&Files\Liberary_NVSSoft_Task1\Liberary_NVSSoft_Task1.DAL\obj\Debug\net6.0\Liberary_NVSSoft_Task1.DAL.dll
+D:\AYM Programming\Prog&Files\Liberary_NVSSoft_Task1\Liberary_NVSSoft_Task1.DAL\obj\Debug\net6.0\refint\Liberary_NVSSoft_Task1.DAL.dll
+D:\AYM Programming\Prog&Files\Liberary_NVSSoft_Task1\Liberary_NVSSoft_Task1.DAL\obj\Debug\net6.0\Liberary_NVSSoft_Task1.DAL.pdb
+D:\AYM Programming\Prog&Files\Liberary_NVSSoft_Task1\Liberary_NVSSoft_Task1.DAL\obj\Debug\net6.0\ref\Liberary_NVSSoft_Task1.DAL.dll

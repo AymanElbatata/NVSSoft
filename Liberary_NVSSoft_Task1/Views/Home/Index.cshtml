@@ -1,0 +1,62 @@
+﻿@using Liberary_NVSSoft_Task1.DAL.Entities;
+@model IEnumerable<BorrowBookStatusAllVM>
+
+
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+@if (ViewData["PartialError"] != "")
+{
+    <h6 style="color:red">@ViewData["PartialError"] </h6>
+    <br />
+}
+
+<script>
+    $(document).ready(function () {
+
+        $(".BorrowBookFormButton").click(function (event) {
+            var form = $(this).closest(".BorrowBookForm");
+
+            // Display a confirmation dialog
+            if (!confirm("Are you sure you want to Borrow this Book?")) {
+                // If user cancels, prevent form submission
+                event.preventDefault();
+            }
+            else {
+                form.submit();
+            }
+        });
+
+    });
+</script>
+
+<div class="text-center">
+    <div class="row">
+        @foreach (var item in Model)
+        {
+            <div class="col-md-3 p-3">
+                <img src="/images/book1345195143.jpg" class="img-fluid" />
+                <h4>@item.ISBN</h4>
+                <h5>@item.Title</h5>
+                <h6>
+                    @if (item.IsOut == false)
+                    {
+                        <form class="BorrowBookForm" asp-controller="Home" asp-action="AddUpdateBorrowings" method="post">
+                            <input type="hidden" name="BookId" value="@item.BookId" />
+                            <td><input type="hidden" id="processType" name="processType" value="1" /></td>
+                            <lable>UserId</lable><input class="w-50 m-2" type="number" min="1" max="4" maxlength="1" name="UserId" value="1" />
+                             <button type="submit" class="BorrowBookFormButton btn btn-success">Borrow it</button>
+                        </form>
+                    }
+                    else
+                    {
+                        <span style="color:red"> Not Available Now</span>
+                    }
+
+                </h6>
+            </div>
+
+        }
+    </div>
+</div>
